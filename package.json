@@ -1,0 +1,24 @@
+{
+  "name": "Front-end-Training",
+  "version": "1.0.0",
+  "description": "Front-end Training",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyrlamildred/Front-end-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyrlamildred/Front-end-Training/issues"
+  },
+  "homepage": "https://github.com/wyrlamildred/Front-end-Training#readme"
+}
